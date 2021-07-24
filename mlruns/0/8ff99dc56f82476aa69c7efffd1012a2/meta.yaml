@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/same/Documents/10Acadamy/Week2/abtest-mlops/mlruns/0/8ff99dc56f82476aa69c7efffd1012a2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: 8ff99dc56f82476aa69c7efffd1012a2
+run_uuid: 8ff99dc56f82476aa69c7efffd1012a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627115329897
+status: 1
+tags: []
+user_id: same
