@@ -1,0 +1,4 @@
+artifact_location: file:///D:/same/Documents/10Acadamy/Week2/abtest-mlops/mlruns/6
+experiment_id: '6'
+lifecycle_stage: active
+name: LogisticRegression_Experiment

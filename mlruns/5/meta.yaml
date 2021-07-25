@@ -1,0 +1,4 @@
+artifact_location: file:///D:/same/Documents/10Acadamy/Week2/abtest-mlops/mlruns/5
+experiment_id: '5'
+lifecycle_stage: active
+name: XGBoost_Experiment

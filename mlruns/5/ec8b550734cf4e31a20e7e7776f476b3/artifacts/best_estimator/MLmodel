@@ -1,0 +1,18 @@
+artifact_path: best_estimator
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.8.8
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 0.24.1
+run_id: ec8b550734cf4e31a20e7e7776f476b3
+signature:
+  inputs: '[{"name": "experiment", "type": "double"}, {"name": "date", "type": "double"},
+    {"name": "hour", "type": "double"}, {"name": "device_make", "type": "double"},
+    {"name": "platform_os", "type": "double"}, {"name": "browser", "type": "double"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+utc_time_created: '2021-07-25 15:34:24.593770'
