@@ -5,6 +5,9 @@ Machine learning models used
     - Decision Trees
     - Xgboost
 
+ <br/>
+ <br/>
+ <br/>
 Files in this project are <br/>
 notebooks/A-B Testing Machine Learning.ipynb - Contains models running as well as the analysis and code fot the A/B testing
 notebooks/data.ipynb- contains data spliting code
